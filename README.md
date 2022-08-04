@@ -1,4 +1,4 @@
-# Columbia-Final-Project-Red-team-vs.-Blue-team-Network-Analysis-
+# Columbia-Final-Project
 
 
 Working as a Security Engineer for X-CORP, supporting the SOC infrastructure. The SOC Analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the Security Engineering team to investigate.
